@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Topic 2 Assignment (Monogame)", "Topic 2 Assignment (Monogame).csproj", "{D42BDE7A-9EE3-48ED-B3F4-6FB4F4E7234F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42BDE7A-9EE3-48ED-B3F4-6FB4F4E7234F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42BDE7A-9EE3-48ED-B3F4-6FB4F4E7234F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42BDE7A-9EE3-48ED-B3F4-6FB4F4E7234F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42BDE7A-9EE3-48ED-B3F4-6FB4F4E7234F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DA99E80-556A-494B-ABD1-679B2B3A9123}
+	EndGlobalSection
+EndGlobal
