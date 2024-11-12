@@ -53,7 +53,6 @@ namespace Topic_2_Assignment__Monogame_
 
             _spriteBatch.Begin();
 
-           
             _spriteBatch.Draw(circleTexture, new Rectangle(200, 75, 375, 375), Color.Yellow);
             _spriteBatch.Draw(rectTexture, new Rectangle(300, 175, 55, 50), Color.Black);
             _spriteBatch.Draw(rectTexture, new Rectangle(425, 175, 55, 50), Color.Black);
